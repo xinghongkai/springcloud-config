@@ -1,3 +1,6 @@
 server:
   springcloud:
     name:xhk
+  MD2000:
+  TR2000:
+  HaomiBo:
